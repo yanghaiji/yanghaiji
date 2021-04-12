@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning DDD:Domain-Driven Design
+
+- 💬 Ask me about 
+  - **Wechat : 372783553**
+  - **Email : yanghaij327@163.com**
+
+- 😄 I like open source
+
+- ☕️ I mainly use **Java**
+
+  
 <!--
 **yanghaiji/yanghaiji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
