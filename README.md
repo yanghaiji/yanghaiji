@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 
-- 🌱 I’m currently learning DDD:Domain-Driven Design,Kettel
+- 🌱 I’m currently learning DDD:Domain-Driven Design,Kettle
 
 - 💬 Ask me about 
   - **Wechat : 372783553**
