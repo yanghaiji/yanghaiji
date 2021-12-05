@@ -33,7 +33,7 @@ These are some of the technologies and tools that I work with:
 ## 📚 Most Use
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanghaiji&layout=compact"   style="margin-bottom: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanghaiji&langs_count=10&layout=compact"   style="margin-bottom: 20px;" />
 </div>
   
 <!--
