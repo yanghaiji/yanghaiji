@@ -1,6 +1,6 @@
-<div>
+<!-- <div>
   <img src="https://github-readme-stats.vercel.app/api?username=yanghaiji&show_icons=true" alt="" align="right" style="margin-bottom: 20px;" />
-</div>
+</div>  -->
 
 ## Hi there 👋
 
@@ -19,8 +19,16 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=yanghaiji&show_icons=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"  />     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanghaiji&langs_count=10&layout=compact&theme=buefy&hide_border=true"  /> 
+
+<!--
 ## ⚡ Technologies
 
 These are some of the technologies and tools that I work with:
@@ -30,13 +38,16 @@ These are some of the technologies and tools that I work with:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+
+
+  
+
 ## 📚 Most Use
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanghaiji&langs_count=10&layout=compact"   style="margin-bottom: 20px;" />
 </div>
-  
-<!--
+
 **yanghaiji/yanghaiji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
