@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 
-- 🌱 I’m currently learning DDD:Domain-Driven Design,Kettle
+- 🌱 I’m currently learning Flink
 
 - 💬 Ask me about 
   - **Wechat : 372783553**
@@ -38,6 +38,8 @@ These are some of the technologies and tools that I work with:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Flink](https://img.shields.io/badge/-Flink-black?style=flat-square&logo=flink)
+![Hadoop](https://img.shields.io/badge/-Hadoop-black?style=flat-square&logo=flink)
 
 
 
