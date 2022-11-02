@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 
-- 🌱 I’m currently learning Flink
+- 🌱 I’m currently learning Python、Pytest
 
 - 💬 Ask me about 
   - **Wechat : 372783553**
